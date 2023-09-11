@@ -1,0 +1,1 @@
+# AHK_error_menu_hotstring
